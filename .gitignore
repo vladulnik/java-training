@@ -1,0 +1,15 @@
+# Java
+*.class
+*.jar
+bin/
+out/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
